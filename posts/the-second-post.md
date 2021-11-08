@@ -5,7 +5,6 @@ author: "Mark Gould"
 layout: 'layouts/post.njk'
 ---
 
-
-# My First Post
+# My Second Post
 
 This is awesome! ;) too cool
