@@ -1,3 +1,3 @@
 # My First Post
 
-This is awesome! ;)
+This is awesome! ;) too cool
